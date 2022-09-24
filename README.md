@@ -29,7 +29,7 @@
 
     学習済みモデルの重み
 
-# 前立腺がん診断支援AIについて
+# 開発した前立腺がん診断支援AIについて
 ## 開発背景
 ![image](https://user-images.githubusercontent.com/89577008/192114457-e647a4d7-b6cf-4044-ac11-36ff30042e86.png)
 ![image](https://user-images.githubusercontent.com/89577008/192114761-6e926109-6e62-4ac7-892e-ffaf13951ea0.png)
