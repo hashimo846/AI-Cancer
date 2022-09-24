@@ -2,7 +2,19 @@
 ## 開発背景
 ![image](https://user-images.githubusercontent.com/89577008/192114457-e647a4d7-b6cf-4044-ac11-36ff30042e86.png)
 ![image](https://user-images.githubusercontent.com/89577008/192114476-82ce61aa-52d2-4ba1-9022-2f3a275c909d.png)
-## 開発したシステムについて
+## 開発したシステム
 ![image](https://user-images.githubusercontent.com/89577008/192114550-09a48f43-8ef7-46df-a5d3-d4146d2c6a33.png)
 ![image](https://user-images.githubusercontent.com/89577008/192114555-2612b63d-6b5a-4fc9-9eb9-cfa236cafe29.png)
+## 本システムの新規性
+![image](https://user-images.githubusercontent.com/89577008/192114603-3d337f72-3706-49e4-9680-92ede71ff945.png)
+![image](https://user-images.githubusercontent.com/89577008/192114606-84240991-e2d9-4e56-89a0-ec86572abeb2.png)
+## モデル設計
+![image](https://user-images.githubusercontent.com/89577008/192114612-bef8275d-a6f7-4ab7-919f-1150d6c9f790.png)
+![image](https://user-images.githubusercontent.com/89577008/192114620-fc60b34e-2cde-4228-ba62-2d37f603b432.png)
+![image](https://user-images.githubusercontent.com/89577008/192114627-af51a11c-625b-43bd-bd60-27a7e5850c3a.png)
+![image](https://user-images.githubusercontent.com/89577008/192114639-24d575c3-4dca-487f-85d2-b07dee8b2d89.png)
+![image](https://user-images.githubusercontent.com/89577008/192114646-c89a7c93-adef-4535-a0a7-615e6f898e31.png)
+## まとめ
+![image](https://user-images.githubusercontent.com/89577008/192114661-97a1084f-6bd9-4d34-96f5-9cc88ca87c4d.png)
+![image](https://user-images.githubusercontent.com/89577008/192114730-f2457b3e-e483-4fde-80fd-036f2bf251cd.png)
 
