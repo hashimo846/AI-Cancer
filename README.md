@@ -1,2 +1,1 @@
-# AI-Prostate-
-New AI model for prostate cancer.
+# 前立腺がん診断支援AI
