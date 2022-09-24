@@ -1,3 +1,6 @@
+# 本リポジトリについて
+# ファイル構造
+
 # 前立腺がん診断支援AIについて
 ## 開発背景
 ![image](https://user-images.githubusercontent.com/89577008/192114457-e647a4d7-b6cf-4044-ac11-36ff30042e86.png)
@@ -17,5 +20,3 @@
 ## まとめ
 ![image](https://user-images.githubusercontent.com/89577008/192114661-97a1084f-6bd9-4d34-96f5-9cc88ca87c4d.png)
 ![image](https://user-images.githubusercontent.com/89577008/192114730-f2457b3e-e483-4fde-80fd-036f2bf251cd.png)
-
-# 本リポジトリについて
