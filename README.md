@@ -11,8 +11,7 @@
 
 具体的に言えば、前立腺癌が疑われる箇所(点)を学習して、前立腺癌が疑われる領域を検出するモデルを生成することができるモデルとなっている。
 
-![image](https://user-images.githubusercontent.com/89577008/192118911-cc345f82-7b17-4b68-89d4-ed01558c1b29.png)
-
+![image](https://user-images.githubusercontent.com/89577008/192118955-0d4db3c0-1294-4982-b7dc-c19933c6a2c2.png)
 
 ## 各ファイルの説明
 * __model.ipynb__
